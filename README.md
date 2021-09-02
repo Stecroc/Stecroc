@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stecroc
 - 👀 I’m interested in Data Analytics and collaborative software development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on as many projects as I can get my hands on to help hone my development skills.
+- 💞️ I’m looking to collaborate on as many projects as possible to help hone my development skills.
 - 📫 How to reach me. I am reachable on my email: chukwueloka.ezekwesili@gmail.com
 
 <!---
